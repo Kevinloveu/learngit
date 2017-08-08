@@ -1,3 +1,3 @@
 Fuck you!
-Creating a new branch is quick and simple.
+Git is a free software ...
 I love u!
